@@ -1,6 +1,8 @@
 # cannons
 Mreshet's home exercise
 
+Working demo: https://benkol.com/mreshet/
+
 A home exercise I recieved from Mreshet. The task's description was:
 
 <p dir='rtl' align='right'>כתוב פונקציה בJS שמקבלת בתור פרמטר אלמנט HTML כלשהו (למשל DIV) ושני צבעים, הפונקציה הזאת צריכה להיות CONSTRUCTOR  של אוביקט  (שאפשר לעשות לו NEW  מתי שרוצים)</p>
@@ -16,5 +18,3 @@ A home exercise I recieved from Mreshet. The task's description was:
 <p dir='rtl' align='right'>כל הפונקציה צריכה לעבוד עצמאית, בלי קוד גלובלי, כך שניתן יהיה לעשות בה שימוש חוזר לכמה אלמנטים שרוצים במקביל</p>
 
 <p dir='rtl' align='right'>דוגמא לאיך התרגיל צריך להיראות (פה יש 2 DIV-ים, אחד זז והשני סטאטי): https://youtu.be/liao5TCw3Q8</p>
-
-Working demo: https://benkol.com/mreshet/
