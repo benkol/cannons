@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+    <head>
+
+        <meta charset="utf-8">
+
+        <title>mreshet home exercise</title>
+
+        <link rel="stylesheet" href="css/style.css?v=1.0">
+        <script src="js/script.js"></script>
+        
+    </head>
+
+    <body>
+        <div class="testdiv"></div>
+        <div class="testdiv2"></div>
+        
+        <script>
+            var myshooty = new ShootyController({
+                'parent': document.querySelector('.testdiv'),
+                'color': 'red',
+                'bulletColor': '#000'
+            });
+            var myshooty2 = new ShootyController({
+                'parent': document.querySelector('.testdiv2'),
+                'color': 'blue',
+                'bulletColor': '#008'
+            });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+canvas {
+    border: 1px solid #bbb;
+}
+.testdiv2 {
+    display: inline-block;
+    position: relative;
+    animation-name: side-to-side;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes side-to-side {
+  from {left: 0;}
+  to {left: 100px;}
+}
