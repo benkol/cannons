@@ -3,7 +3,7 @@ Mreshet's home exercise
 
 Working demo: https://benkol.com/mreshet/
 
-A home exercise I recieved from Mreshet. The task's description was:
+**A home exercise I recieved from Mreshet. The task's description was:**
 
 <p dir='rtl' align='right'>כתוב פונקציה בJS שמקבלת בתור פרמטר אלמנט HTML כלשהו (למשל DIV) ושני צבעים, הפונקציה הזאת צריכה להיות CONSTRUCTOR  של אוביקט  (שאפשר לעשות לו NEW  מתי שרוצים)</p>
 
